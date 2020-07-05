@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**Maxim Scame**
-
 Working with georadars, write software for them📡 `C++/Cuda`<br>
 
 Pet projects: 
