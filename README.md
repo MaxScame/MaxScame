@@ -6,6 +6,7 @@ Pet projects:
 - [Packy📦](https://github.com/MaxScame/Packy) `C++/Python` (Bosch Rexroth)
 - CNC CV👁️🦾 `C++/C#/Python` (Bosch Rexroth, Fagor)
 - [Backer's Dozen](https://github.com/MaxScame/Bakers-dozen)⌨️ `KiCad`
+- [Tiny Blog](https://maxscame.github.io/)🔥 `About everything` 
 
 Something about:
 
