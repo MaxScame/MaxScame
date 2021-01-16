@@ -14,3 +14,5 @@ Something about:
 - 🌱 I’m currently learning ML
 - 💬 Ask me about mechanical keyboards, radars and C++ multithreading🌚
 - 📫 How to reach me: [Telegram](https://t.me/outside_space)
+
+![MaxScame's github stats](https://github-readme-stats.vercel.app/api?username=MaxScame&count_private=true&show_icons=true&theme=vue)
