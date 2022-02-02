@@ -10,9 +10,11 @@ Pet projects:
 
 Something about:
 
-- 🔭 I’m currently working on CNC IoT project
+- 🔭 I’m currently working on InScience project
 - 🌱 I’m currently learning ML
 - 💬 Ask me about mechanical keyboards, radars and C++ multithreading🌚
 - 📫 How to reach me: [Telegram](https://t.me/outside_space)
 
 ![MaxScame's github stats](https://github-readme-stats.vercel.app/api?username=MaxScame&count_private=true&show_icons=true&theme=vue)
+
+![CodeWars stats](https://www.codewars.com/users/scame/badges/small)
