@@ -8,6 +8,7 @@ Pet projects:
 - InScience🔬 `Python/Dart/Flutter/JS/VueJS/Java/Ruby`
 - [Packy📦](https://github.com/MaxScame/Packy) `C++/Python` (Bosch Rexroth)
 - CNC CV👁️🦾 `C++/C#/Python` (Bosch Rexroth, Fagor)
+- CNC IIoT🏭 `Python/C++`
 - [Baker's Dozen](https://github.com/MaxScame/Bakers-dozen)⌨️ `KiCad`
 - [Tiny Blog](https://maxscame.github.io/ru/)🔥 `About everything` 
 
